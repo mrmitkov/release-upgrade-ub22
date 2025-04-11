@@ -82,9 +82,16 @@ Ubuntu **non supporta il downgrade**. Se l’upgrade causa problemi critici, l�
 
 ## 📚 Riferimenti
 
-- [Guida ufficiale Ubuntu](https://help.ubuntu.com/community/UpgradeNotes)
 - `man do-release-upgrade`
+- [Guida ufficiale Ubuntu](https://help.ubuntu.com/community/UpgradeNotes)
+- [How to Upgrade Ubuntu 22.04 to 24.04 LTS: A Complete Guide](https://www.cyberciti.biz/faq/how-to-upgrade-from-ubuntu-22-04-lts-to-ubuntu-24-04-lts/)
 
+###Vedi anche
+
+- http://www.ubuntu.com/getubuntu/upgrading
+- [EOLUpgrades](https://help.ubuntu.com/community/EOLUpgrades)
+- [Upgrades](https://help.ubuntu.com/community/Upgrades)
+- [Releases](https://wiki.ubuntu.com/Releases)
 ---
 
 Se vuoi, posso anche esportare questa pagina in formato `.md` o `.pdf`. Fammi sapere!
